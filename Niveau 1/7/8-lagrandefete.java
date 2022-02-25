@@ -12,7 +12,7 @@ class Main{
       for(int i=1; i<=n; i++){
          int tempdebut = entree.nextInt();
          int tempfin = entree.nextInt();
-         if ( !(tempfin<Debut) || !(tempdebut>fin) ){
+         if ( !((tempfin<Debut) || (tempdebut>fin)) ){
             counter +=1;
          } 
       }
