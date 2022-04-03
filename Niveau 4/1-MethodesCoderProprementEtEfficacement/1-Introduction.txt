@@ -1,0 +1,11 @@
+L'auteur du texte par du postulat que le debuggage est souvent 80% du temps total de developpement
+pourquoi pas, cependant passer des heures de debuggage car la cause est due a la "modification d'un simple caractère, un signe inversé, un <= qui aurait dû être un simple <, etc."
+est faux, ou alors c'est qu'on est débutant dans son langage, en effet une compilation va indiquer une certain probleme, qui se remonte facilement,
+Le plus long est d'adapter le code a des fonctions que l'on avait pas prévu initialement
+
+Je suis d'accord que réfléchir à la structure globale du code et des interactions a venir est très important a faire avant de passer au code.
+Malheureusement il n'y a aucun rapport avec faire une typo.
+
+Le pseudo code c'est un mensonge.
+
+j'imagine qu'ils developperont les idées mais en attendant c nul.
