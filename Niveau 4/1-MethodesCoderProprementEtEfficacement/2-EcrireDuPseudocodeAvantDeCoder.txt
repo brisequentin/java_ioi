@@ -1,0 +1,16 @@
+Ce que l'on veut éviter
+Les erreurs les plus fréquentes qui rendent les implémentations fausses :
+
+Se tromper dans les noms de variables (en utiliser un à la place d'un autre) ; (prend 2s a corriger)
+Se tromper dans les indices de début et les conditions de fin des boucles ; (prend 2s a corriger)
+Oublier d'initialiser les valeurs contenues dans un tableau ; (prend 2s a corriger)
+Oublier de traiter des cas limites ; n'est pas une erreur d'attention, donc potentiellement long a corriger
+Avoir des tableaux trop petits d'une case ; (prend 2s a corriger)
+Utiliser une valeur trop petite pour implémenter l'infini ; (prend 2s a corriger)
+Ce qui arrive lorsqu'on n'est pas organisé et qui fait perdre beaucoup de temps : 
+
+Changer a posteriori ses structures de données ; long
+Modifier du code déjà écrit pour gérer plus de variables ; (prend 2s a corriger)
+Modifier du code pour corriger un bug et en introduire d'autres au passage ; ???
+S'apercevoir en codant qu'on a oublié une boucle et qu'on a donc sous-estimé la complexité ;
+Ne pas avoir différents tests sous la main pour tester son algorithme.
